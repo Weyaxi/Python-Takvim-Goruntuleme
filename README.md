@@ -10,13 +10,13 @@ Programı kolayca çalıştırmak için terminalimize `python3 takvim.py` yazabi
 
 ```
 ------------------
-Yıl giriniz: 2020
-Ay Giriniz: 1
+Yıl giriniz: yıl
+Ay Giriniz: ay
 ------------------ 
 
 --------------------------
 
-    January 2020
+    Ay Yıl
 Mo Tu We Th Fr Sa Su
        1  2  3  4  5
  6  7  8  9 10 11 12
