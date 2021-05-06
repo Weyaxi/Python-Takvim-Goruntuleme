@@ -1,4 +1,4 @@
-# Pytho Takvim Göruntüleme
+# Python Takvim Göruntüleme
 
 Bu program, aslında başlıktan da anlayabileceğimiz gibi Python'da basit olarak takvimi görüntülemek amacıyla kullanılır. 
 
