@@ -1,10 +1,10 @@
 # Python Takvim Göruntüleme
 
-Bu program, aslında başlıktan da anlayabileceğimiz gibi Python'da basit olarak takvimi görüntülemek amacıyla kullanılır. 
+📁 Bu program, aslında başlıktan da anlayabileceğimiz gibi Python'da basit olarak takvimi görüntülemek amacıyla kullanılır. 
 
 # Programı Çalıştırmak
 
-Programı kolayca çalıştırmak için terminalimize `python3 takvim.py` yazabiliriz.
+📁 Programı kolayca çalıştırmak için terminalimize `python3 takvim.py` yazabiliriz.
 
 # Programın Çıktısı
 
